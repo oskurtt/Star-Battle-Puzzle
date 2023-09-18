@@ -1,0 +1,19 @@
+Number of solutions: 3
+
+Solution 1:
+@LX
+LL@
+@LX
+XX@
+
+Solution 2:
+@L@
+LLX
+@LX
+XX@
+
+Solution 3:
+@L@
+LLX
+@L@
+XXX

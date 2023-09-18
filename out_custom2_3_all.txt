@@ -1,0 +1,81 @@
+Number of solutions: 16
+
+Solution 1:
+T@T@T@
+TTTTTT
+o@o@o@
+
+Solution 2:
+T@T@T@
+TTTTTT
+@oo@o@
+
+Solution 3:
+T@T@T@
+TTTTTT
+@o@oo@
+
+Solution 4:
+T@T@T@
+TTTTTT
+@o@o@o
+
+Solution 5:
+@TT@T@
+TTTTTT
+o@o@o@
+
+Solution 6:
+@TT@T@
+TTTTTT
+@oo@o@
+
+Solution 7:
+@TT@T@
+TTTTTT
+@o@oo@
+
+Solution 8:
+@TT@T@
+TTTTTT
+@o@o@o
+
+Solution 9:
+@T@TT@
+TTTTTT
+o@o@o@
+
+Solution 10:
+@T@TT@
+TTTTTT
+@oo@o@
+
+Solution 11:
+@T@TT@
+TTTTTT
+@o@oo@
+
+Solution 12:
+@T@TT@
+TTTTTT
+@o@o@o
+
+Solution 13:
+@T@T@T
+TTTTTT
+o@o@o@
+
+Solution 14:
+@T@T@T
+TTTTTT
+@oo@o@
+
+Solution 15:
+@T@T@T
+TTTTTT
+@o@oo@
+
+Solution 16:
+@T@T@T
+TTTTTT
+@o@o@o

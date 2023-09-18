@@ -1,0 +1,711 @@
+Number of solutions: 142
+
+Solution 1:
+TTTT@T
+T@TTTT
+ooo@o@
+
+Solution 2:
+TTTTT@
+T@TTTT
+ooo@o@
+
+Solution 3:
+TTT@TT
+T@TTTT
+ooo@o@
+
+Solution 4:
+TTT@TT
+@TTTTT
+ooo@o@
+
+Solution 5:
+TTT@TT
+@TTTTT
+oo@oo@
+
+Solution 6:
+TTT@TT
+@TTTTT
+oo@o@o
+
+Solution 7:
+TTT@T@
+TTTTTT
+o@ooo@
+
+Solution 8:
+TTT@T@
+TTTTTT
+o@oo@o
+
+Solution 9:
+TTT@T@
+TTTTTT
+o@o@oo
+
+Solution 10:
+TTT@T@
+TTTTTT
+@oooo@
+
+Solution 11:
+TTT@T@
+TTTTTT
+@ooo@o
+
+Solution 12:
+TTT@T@
+TTTTTT
+@oo@oo
+
+Solution 13:
+TTT@T@
+TTTTTT
+@o@ooo
+
+Solution 14:
+TTT@T@
+TTTTTT
+oo@oo@
+
+Solution 15:
+TTT@T@
+TTTTTT
+oo@o@o
+
+Solution 16:
+TTT@T@
+TTTTTT
+ooo@o@
+
+Solution 17:
+TTTT@T
+@TTTTT
+ooo@o@
+
+Solution 18:
+TTTT@T
+@TTTTT
+oo@oo@
+
+Solution 19:
+TTTT@T
+@TTTTT
+oo@o@o
+
+Solution 20:
+TTTTT@
+@TTTTT
+ooo@o@
+
+Solution 21:
+TTTTT@
+@TTTTT
+oo@oo@
+
+Solution 22:
+TTTTT@
+@TTTTT
+oo@o@o
+
+Solution 23:
+TT@TT@
+TTTTTT
+o@ooo@
+
+Solution 24:
+TT@TT@
+TTTTTT
+o@oo@o
+
+Solution 25:
+TT@TT@
+TTTTTT
+o@o@oo
+
+Solution 26:
+TT@TT@
+TTTTTT
+@oooo@
+
+Solution 27:
+TT@TT@
+TTTTTT
+@ooo@o
+
+Solution 28:
+TT@TT@
+TTTTTT
+@oo@oo
+
+Solution 29:
+TT@TT@
+TTTTTT
+@o@ooo
+
+Solution 30:
+TT@TT@
+TTTTTT
+ooo@o@
+
+Solution 31:
+TT@TT@
+TTTTTT
+oo@oo@
+
+Solution 32:
+TT@TT@
+TTTTTT
+oo@o@o
+
+Solution 33:
+TT@TTT
+@TTTTT
+ooo@o@
+
+Solution 34:
+TT@TTT
+@TTTTT
+oo@oo@
+
+Solution 35:
+TT@TTT
+@TTTTT
+oo@o@o
+
+Solution 36:
+TT@T@T
+TTTTTT
+o@ooo@
+
+Solution 37:
+TT@T@T
+TTTTTT
+o@oo@o
+
+Solution 38:
+TT@T@T
+TTTTTT
+o@o@oo
+
+Solution 39:
+TT@T@T
+TTTTTT
+@oooo@
+
+Solution 40:
+TT@T@T
+TTTTTT
+@ooo@o
+
+Solution 41:
+TT@T@T
+TTTTTT
+@oo@oo
+
+Solution 42:
+TT@T@T
+TTTTTT
+@o@ooo
+
+Solution 43:
+TT@T@T
+TTTTTT
+ooo@o@
+
+Solution 44:
+TT@T@T
+TTTTTT
+oo@oo@
+
+Solution 45:
+TT@T@T
+TTTTTT
+oo@o@o
+
+Solution 46:
+T@TTTT
+TTTT@T
+@o@ooo
+
+Solution 47:
+T@TTTT
+TTT@TT
+o@ooo@
+
+Solution 48:
+T@TTTT
+TTT@TT
+@oooo@
+
+Solution 49:
+T@TTT@
+TTTTTT
+ooo@o@
+
+Solution 50:
+T@TTT@
+TTTTTT
+oo@oo@
+
+Solution 51:
+T@TTT@
+TTTTTT
+oo@o@o
+
+Solution 52:
+T@TTT@
+TTTTTT
+o@oo@o
+
+Solution 53:
+T@TTT@
+TTTTTT
+o@o@oo
+
+Solution 54:
+T@TTT@
+TTTTTT
+@ooo@o
+
+Solution 55:
+T@TTT@
+TTTTTT
+@oo@oo
+
+Solution 56:
+T@TTT@
+TTTTTT
+@o@ooo
+
+Solution 57:
+T@TTT@
+TTTTTT
+o@ooo@
+
+Solution 58:
+T@TTT@
+TTTTTT
+@oooo@
+
+Solution 59:
+T@TT@T
+TTTTTT
+ooo@o@
+
+Solution 60:
+T@TT@T
+TTTTTT
+oo@oo@
+
+Solution 61:
+T@TT@T
+TTTTTT
+oo@o@o
+
+Solution 62:
+T@TT@T
+TTTTTT
+o@ooo@
+
+Solution 63:
+T@TT@T
+TTTTTT
+o@oo@o
+
+Solution 64:
+T@TT@T
+TTTTTT
+o@o@oo
+
+Solution 65:
+T@TT@T
+TTTTTT
+@oooo@
+
+Solution 66:
+T@TT@T
+TTTTTT
+@ooo@o
+
+Solution 67:
+T@TT@T
+TTTTTT
+@oo@oo
+
+Solution 68:
+T@TT@T
+TTTTTT
+@o@ooo
+
+Solution 69:
+T@TTTT
+TTTTT@
+o@o@oo
+
+Solution 70:
+T@TTTT
+TTTTT@
+@oo@oo
+
+Solution 71:
+T@TTTT
+TTTTT@
+@o@ooo
+
+Solution 72:
+T@T@TT
+TTTTTT
+ooo@o@
+
+Solution 73:
+T@T@TT
+TTTTTT
+oo@oo@
+
+Solution 74:
+T@T@TT
+TTTTTT
+oo@o@o
+
+Solution 75:
+T@T@TT
+TTTTTT
+o@ooo@
+
+Solution 76:
+T@T@TT
+TTTTTT
+o@oo@o
+
+Solution 77:
+T@T@TT
+TTTTTT
+@oooo@
+
+Solution 78:
+T@T@TT
+TTTTTT
+@ooo@o
+
+Solution 79:
+T@T@TT
+TTTTTT
+o@o@oo
+
+Solution 80:
+T@T@TT
+TTTTTT
+@oo@oo
+
+Solution 81:
+T@T@TT
+TTTTTT
+@o@ooo
+
+Solution 82:
+TTTTT@
+TT@TTT
+@oooo@
+
+Solution 83:
+TTTTT@
+TT@TTT
+@ooo@o
+
+Solution 84:
+TTTT@T
+TT@TTT
+@oooo@
+
+Solution 85:
+TTTT@T
+TT@TTT
+@ooo@o
+
+Solution 86:
+TT@TTT
+TTTTT@
+o@o@oo
+
+Solution 87:
+TT@TTT
+TTTTT@
+@oo@oo
+
+Solution 88:
+TT@TTT
+TTTTT@
+@o@ooo
+
+Solution 89:
+TT@TTT
+TTTT@T
+@o@ooo
+
+Solution 90:
+TTTTT@
+TTT@TT
+o@ooo@
+
+Solution 91:
+TTTTT@
+TTT@TT
+@oooo@
+
+Solution 92:
+TTT@TT
+TTTTT@
+o@o@oo
+
+Solution 93:
+TTT@TT
+TTTTT@
+@oo@oo
+
+Solution 94:
+TTT@TT
+TTTTT@
+@o@ooo
+
+Solution 95:
+@TTTTT
+TTT@TT
+o@ooo@
+
+Solution 96:
+@TTTTT
+TTT@TT
+@oooo@
+
+Solution 97:
+@TTTT@
+TTTTTT
+ooo@o@
+
+Solution 98:
+@TTTT@
+TTTTTT
+oo@oo@
+
+Solution 99:
+@TTTT@
+TTTTTT
+oo@o@o
+
+Solution 100:
+@TTTT@
+TTTTTT
+o@oo@o
+
+Solution 101:
+@TTTT@
+TTTTTT
+o@o@oo
+
+Solution 102:
+@TTTT@
+TTTTTT
+@oo@oo
+
+Solution 103:
+@TTTT@
+TTTTTT
+@o@ooo
+
+Solution 104:
+@TTTT@
+TTTTTT
+o@ooo@
+
+Solution 105:
+@TTTT@
+TTTTTT
+@ooo@o
+
+Solution 106:
+@TTTT@
+TTTTTT
+@oooo@
+
+Solution 107:
+@TTTTT
+TT@TTT
+@oooo@
+
+Solution 108:
+@TTTTT
+TT@TTT
+@ooo@o
+
+Solution 109:
+@TTT@T
+TTTTTT
+ooo@o@
+
+Solution 110:
+@TTT@T
+TTTTTT
+oo@oo@
+
+Solution 111:
+@TTT@T
+TTTTTT
+oo@o@o
+
+Solution 112:
+@TTT@T
+TTTTTT
+o@ooo@
+
+Solution 113:
+@TTT@T
+TTTTTT
+o@oo@o
+
+Solution 114:
+@TTT@T
+TTTTTT
+o@o@oo
+
+Solution 115:
+@TTT@T
+TTTTTT
+@oo@oo
+
+Solution 116:
+@TTT@T
+TTTTTT
+@o@ooo
+
+Solution 117:
+@TTT@T
+TTTTTT
+@oooo@
+
+Solution 118:
+@TTT@T
+TTTTTT
+@ooo@o
+
+Solution 119:
+@TT@TT
+TTTTTT
+ooo@o@
+
+Solution 120:
+@TT@TT
+TTTTTT
+oo@oo@
+
+Solution 121:
+@TT@TT
+TTTTTT
+oo@o@o
+
+Solution 122:
+@TT@TT
+TTTTTT
+o@ooo@
+
+Solution 123:
+@TT@TT
+TTTTTT
+o@oo@o
+
+Solution 124:
+@TT@TT
+TTTTTT
+@oooo@
+
+Solution 125:
+@TT@TT
+TTTTTT
+@ooo@o
+
+Solution 126:
+@TT@TT
+TTTTTT
+o@o@oo
+
+Solution 127:
+@TT@TT
+TTTTTT
+@oo@oo
+
+Solution 128:
+@TT@TT
+TTTTTT
+@o@ooo
+
+Solution 129:
+@TTTTT
+TTTT@T
+@o@ooo
+
+Solution 130:
+@TTTTT
+TTTTT@
+o@o@oo
+
+Solution 131:
+@TTTTT
+TTTTT@
+@oo@oo
+
+Solution 132:
+@TTTTT
+TTTTT@
+@o@ooo
+
+Solution 133:
+@T@TTT
+TTTTTT
+ooo@o@
+
+Solution 134:
+@T@TTT
+TTTTTT
+oo@oo@
+
+Solution 135:
+@T@TTT
+TTTTTT
+oo@o@o
+
+Solution 136:
+@T@TTT
+TTTTTT
+o@ooo@
+
+Solution 137:
+@T@TTT
+TTTTTT
+o@oo@o
+
+Solution 138:
+@T@TTT
+TTTTTT
+@oooo@
+
+Solution 139:
+@T@TTT
+TTTTTT
+@ooo@o
+
+Solution 140:
+@T@TTT
+TTTTTT
+o@o@oo
+
+Solution 141:
+@T@TTT
+TTTTTT
+@oo@oo
+
+Solution 142:
+@T@TTT
+TTTTTT
+@o@ooo

@@ -1,0 +1,251 @@
+Number of solutions: 50
+
+Solution 1:
+TTTTT@
+TTTTTT
+o@oooo
+
+Solution 2:
+TTTTT@
+TTTTTT
+@ooooo
+
+Solution 3:
+TTTTT@
+TTTTTT
+oo@ooo
+
+Solution 4:
+TTTTT@
+TTTTTT
+ooo@oo
+
+Solution 5:
+TTTTT@
+TTTTTT
+oooo@o
+
+Solution 6:
+TTTTTT
+TT@TTT
+@ooooo
+
+Solution 7:
+TTTTTT
+T@TTTT
+ooo@oo
+
+Solution 8:
+TTTT@T
+TTTTTT
+o@oooo
+
+Solution 9:
+TTTT@T
+TTTTTT
+@ooooo
+
+Solution 10:
+TTTT@T
+TTTTTT
+oo@ooo
+
+Solution 11:
+TTTT@T
+TTTTTT
+ooo@oo
+
+Solution 12:
+TTTT@T
+TTTTTT
+ooooo@
+
+Solution 13:
+TTTTTT
+T@TTTT
+oooo@o
+
+Solution 14:
+TTTTTT
+T@TTTT
+ooooo@
+
+Solution 15:
+TTTTTT
+@TTTTT
+oo@ooo
+
+Solution 16:
+TTT@TT
+TTTTTT
+o@oooo
+
+Solution 17:
+TTT@TT
+TTTTTT
+@ooooo
+
+Solution 18:
+TTT@TT
+TTTTTT
+oo@ooo
+
+Solution 19:
+TTT@TT
+TTTTTT
+ooooo@
+
+Solution 20:
+TTT@TT
+TTTTTT
+oooo@o
+
+Solution 21:
+TTTTTT
+@TTTTT
+ooo@oo
+
+Solution 22:
+TTTTTT
+@TTTTT
+oooo@o
+
+Solution 23:
+TTTTTT
+@TTTTT
+ooooo@
+
+Solution 24:
+TT@TTT
+TTTTTT
+o@oooo
+
+Solution 25:
+TT@TTT
+TTTTTT
+@ooooo
+
+Solution 26:
+TT@TTT
+TTTTTT
+ooooo@
+
+Solution 27:
+TT@TTT
+TTTTTT
+oooo@o
+
+Solution 28:
+TT@TTT
+TTTTTT
+ooo@oo
+
+Solution 29:
+TTTTTT
+TTT@TT
+@ooooo
+
+Solution 30:
+TTTTTT
+TTTT@T
+@ooooo
+
+Solution 31:
+TTTTTT
+TTTTT@
+@ooooo
+
+Solution 32:
+T@TTTT
+TTTTTT
+oooo@o
+
+Solution 33:
+T@TTTT
+TTTTTT
+ooo@oo
+
+Solution 34:
+T@TTTT
+TTTTTT
+oo@ooo
+
+Solution 35:
+T@TTTT
+TTTTTT
+ooooo@
+
+Solution 36:
+T@TTTT
+TTTTTT
+@ooooo
+
+Solution 37:
+TTTTTT
+TTT@TT
+o@oooo
+
+Solution 38:
+TTTTTT
+TT@TTT
+oooo@o
+
+Solution 39:
+TTTTTT
+TT@TTT
+ooooo@
+
+Solution 40:
+TTTTTT
+TTTT@T
+o@oooo
+
+Solution 41:
+TTTTTT
+TTTTT@
+o@oooo
+
+Solution 42:
+TTTTTT
+TTTT@T
+oo@ooo
+
+Solution 43:
+TTTTTT
+TTT@TT
+ooooo@
+
+Solution 44:
+TTTTTT
+TTTTT@
+oo@ooo
+
+Solution 45:
+TTTTTT
+TTTTT@
+ooo@oo
+
+Solution 46:
+@TTTTT
+TTTTTT
+ooo@oo
+
+Solution 47:
+@TTTTT
+TTTTTT
+oo@ooo
+
+Solution 48:
+@TTTTT
+TTTTTT
+o@oooo
+
+Solution 49:
+@TTTTT
+TTTTTT
+oooo@o
+
+Solution 50:
+@TTTTT
+TTTTTT
+ooooo@

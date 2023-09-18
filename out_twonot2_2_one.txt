@@ -1,0 +1,17 @@
+Number of solutions: 1
+
+Solution 1:
+@bbbbbbbbcc@cc
+abbddb@b@ccccc
+@aa@dbbbbdeecc
+aaddddd@ddgec@
+aaa@fdddddg@cc
+ahhff@f@gggeee
+i@hhhfjjj@geee
+ihhi@fkjjeeee@
+i@iihkkjjj@len
+iiiiikkj@jll@n
+mm@mm@kkkjllnn
+mmmmmkkkjj@j@n
+mm@mmm@kknjjnn
+mmmm@mmkk@nnnn

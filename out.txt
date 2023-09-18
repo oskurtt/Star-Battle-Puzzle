@@ -1,0 +1,9 @@
+Number of solutions: 1
+
+Solution 1:
+aab@b
+@bbcc
+dd@cc
+edec@
+e@ecc
+
